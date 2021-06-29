@@ -13,7 +13,7 @@ export default function Home() {
       <main className={styles.main}>
         <Image
           src={sicktasticLogo}
-          alt="Sicktastic Logo"
+          alt="Sicktastic"
           width="380"
           height="129"
         />
