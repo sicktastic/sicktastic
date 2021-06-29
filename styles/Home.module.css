@@ -25,6 +25,10 @@
   align-items: center;
 }
 
+.textGray {
+  color: #5a5a5a;
+}
+
 .footer img {
   margin-left: 0.5rem;
 }
