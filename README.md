@@ -6,5 +6,3 @@
 
 
 **https://anthonylee.io**
-
-![Sicktastic's GitHub stats](https://github-readme-stats.vercel.app/api?username=sicktastic&count_private=true)
