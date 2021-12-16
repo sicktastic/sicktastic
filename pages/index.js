@@ -1,7 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Image from "next/image";
-import sicktasticLogo from "../public/sicktastic.png";
 
 export default function Home() {
   return (
@@ -11,12 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Image
-          src={sicktasticLogo}
-          alt="Sicktastic"
-          width="380"
-          height="129"
-        />
+        <h1>Sicktastic</h1>
         <p className={styles.textGray}>
           A combination of the words sick and fantastic.
         </p>
